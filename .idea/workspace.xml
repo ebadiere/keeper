@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b5b1dd-43b9-408e-8842-44f5c682e2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/keeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/keeper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pymaker" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,17 +113,6 @@
               <item name="keeper" type="b2602c69:ProjectViewProjectNode" />
               <item name="keeper" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="keeper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keeper" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="keeper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keeper" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -159,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554034969070</updated>
     </task>
+    <task id="LOCAL-00001" summary="WIP.  Project dependencies.">
+      <created>1555253954050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555253954051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -184,6 +179,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WIP.  Project dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP.  Project dependencies." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scripts/cups-query.py">
