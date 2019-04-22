@@ -22,9 +22,9 @@ from typing import List
 
 import networkx
 
-from arbitrage_keeper.conversion import Conversion
-from pymaker import Address
-from pymaker.numeric import Wad, Ray
+from src.main.python.conversion import Conversion
+from lib.pymaker.pymaker import Address
+from lib.pymaker.pymaker.numeric import Wad, Ray
 
 
 class Sequence:
