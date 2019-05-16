@@ -18,8 +18,8 @@
 import pytest
 
 from src.main.python.transfer_formatter import TransferFormatter
-from lib.pymaker.pymaker import Address, Transfer
-from lib.pymaker.pymaker.numeric import Wad
+from src.main.python.pymaker import Address, Transfer
+from src.main.python.pymaker.numeric import Wad
 
 
 @pytest.fixture

@@ -19,9 +19,9 @@ import itertools
 from functools import reduce
 from typing import Iterable
 
-from pymaker import Address, Transfer
-from pymaker.token import ERC20Token
-from pymaker.numeric import Wad
+from src.main.python.pymaker import Address, Transfer
+from src.main.python.pymaker.token import ERC20Token
+from src.main.python.pymaker.numeric import Wad
 
 
 class TransferFormatter:

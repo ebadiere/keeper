@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  keeper:
+    build:
+      context: .
+    volumes:
+      - .:/usr/src/keeper
+    ports:
+      - 8001:88
