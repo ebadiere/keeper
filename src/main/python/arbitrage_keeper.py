@@ -27,16 +27,16 @@ from src.main.python.conversion import Conversion, OasisTakeConversion, ZrxFillO
 from src.main.python.conversion import TubBoomConversion, TubBustConversion, TubExitConversion, TubJoinConversion
 from src.main.python.opportunity import OpportunityFinder, Sequence
 from src.main.python.transfer_formatter import TransferFormatter
-from lib.pymaker.pymaker import Address
-from lib.pymaker.pymaker.approval import via_tx_manager, directly
-from lib.pymaker.pymaker.gas import DefaultGasPrice, FixedGasPrice
-from lib.pymaker.pymaker.lifecycle import Lifecycle
-from lib.pymaker.pymaker.numeric import Wad, Ray
-from lib.pymaker.pymaker.oasis import MatchingMarket
-from lib.pymaker.pymaker.sai import Tub, Tap
-from lib.pymaker.pymaker.token import ERC20Token
-from lib.pymaker.pymaker.transactional import TxManager
-from lib.pymaker.pymaker.zrx import ZrxExchange, ZrxRelayerApi
+from src.main.python.pymaker import Address
+from src.main.python.pymaker.approval import via_tx_manager, directly
+from src.main.python.pymaker.gas import DefaultGasPrice, FixedGasPrice
+from src.main.python.pymaker.lifecycle import Lifecycle
+from src.main.python.pymaker.numeric import Wad, Ray
+from src.main.python.pymaker.oasis import MatchingMarket
+from src.main.python.pymaker.sai import Tub, Tap
+from src.main.python.pymaker.token import ERC20Token
+from src.main.python.pymaker.transactional import TxManager
+from src.main.python.pymaker.zrx import ZrxExchange, ZrxRelayerApi
 
 
 class ArbitrageKeeper:

@@ -4,8 +4,8 @@ import unittest
 
 
 from src.main.python.conversion import Conversion
-from lib.pymaker.pymaker import Address
-from lib.pymaker.pymaker.numeric import Wad, Ray
+from src.main.python.pymaker import Address
+from src.main.python.pymaker.numeric import Wad, Ray
 
 @pytest.fixture
 def token1():

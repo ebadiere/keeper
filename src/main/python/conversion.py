@@ -15,10 +15,10 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from lib.pymaker.pymaker import Address, zrx
-from lib.pymaker.pymaker.numeric import Wad, Ray
-from lib.pymaker.pymaker.oasis import SimpleMarket, Order
-from lib.pymaker.pymaker.sai import Tub, Tap
+from src.main.python.pymaker import Address, zrx
+from src.main.python.pymaker.numeric import Wad, Ray
+from src.main.python.pymaker.oasis import SimpleMarket, Order
+from src.main.python.pymaker.sai import Tub, Tap
 
 
 class Conversion:

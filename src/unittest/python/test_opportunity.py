@@ -19,8 +19,8 @@ import pytest
 
 from src.main.python.conversion import Conversion
 from src.main.python.opportunity import Sequence, OpportunityFinder
-from lib.pymaker.pymaker import Address
-from lib.pymaker.pymaker.numeric import Wad, Ray
+from src.main.python.pymaker import Address
+from src.main.python.pymaker.numeric import Wad, Ray
 
 
 class TestSequence:

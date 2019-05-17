@@ -2,117 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a967b9e8-995a-461c-9f8a-d3ee41f727cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Cat.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Cat.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSEthToken.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSEthToken.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSGuard.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSGuard.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSProxy.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSProxy.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSProxyCache.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSProxyCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSProxyFactory.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSProxyFactory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSRoles.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSRoles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSToken.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSToken.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSValue.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSValue.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSVault.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DSVault.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DaiJoin.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DaiJoin.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DaiMove.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/DaiMove.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Drip.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Drip.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ERC20Token.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/EtherDelta.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/EtherDelta.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/EtherToken.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/EtherToken.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Exchange.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Exchange.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ExchangeV2-ERC20Proxy.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ExchangeV2-ERC20Proxy.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ExchangeV2.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ExchangeV2.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ExpiringMarket.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ExpiringMarket.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Flapper.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Flapper.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Flipper.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Flipper.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Flopper.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Flopper.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/GemJoin.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/GemJoin.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/GemMove.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/GemMove.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/MakerOtcSupportMethods.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/MakerOtcSupportMethods.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/MatchingMarket.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/MatchingMarket.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Pit.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Pit.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiTap.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiTap.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiTop.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiTop.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiTub.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiTub.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiVox.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SaiVox.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SimpleMarket.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/SimpleMarket.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Spotter.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Spotter.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/TokenTransferProxy.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/TokenTransferProxy.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/TxManager.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/TxManager.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Vat.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Vat.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Vow.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/Vow.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ZRXToken.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/abi/ZRXToken.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/approval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/auctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/deployment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/dss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/etherdelta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/feed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/gas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/lifecycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/numeric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/oasis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/sai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/sign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/tightly_packed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/transactional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/vault.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/zrx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/pymaker/zrxv2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/keeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/keeper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pymaker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/python/transfer_formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/transfer_formatter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unittest/python/test_transfer_formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/unittest/python/test_transfer_formatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/python/arbitrage_keeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/arbitrage_keeper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/python/conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/python/opportunity.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/opportunity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unittest/python/test_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/unittest/python/test_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unittest/python/test_opportunity.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/unittest/python/test_opportunity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,26 +19,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/abi/Cat.abi">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/unittest/python/test_transfer_formatter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="38" />
-              <folding>
-                <element signature="e#739#752#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/python/transfer_formatter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="179">
               <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
             </state>
           </provider>
@@ -151,26 +30,80 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+            <state relative-caret-position="9569">
+              <caret line="664" selection-start-line="664" selection-end-line="664" />
+              <folding>
+                <element signature="e#744#758#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/util.py">
+        <entry file="file://$PROJECT_DIR$/src/unittest/python/test_opportunity.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="153">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/token.py">
+        <entry file="file://$PROJECT_DIR$/src/unittest/python/test_conversion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="74">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-434" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/conversion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding>
+                <element signature="e#744#788#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/opportunity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/arbitrage_keeper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -188,6 +121,12 @@
         <option value="$PROJECT_DIR$/src/main/python/pymaker/__init__.py" />
         <option value="$PROJECT_DIR$/src/main/python/pymaker/util.py" />
         <option value="$PROJECT_DIR$/src/main/python/pymaker/token.py" />
+        <option value="$PROJECT_DIR$/src/unittest/python/test_opportunity.py" />
+        <option value="$PROJECT_DIR$/src/main/python/conversion.py" />
+        <option value="$PROJECT_DIR$/src/main/python/opportunity.py" />
+        <option value="$PROJECT_DIR$/src/main/python/arbitrage_keeper.py" />
+        <option value="$PROJECT_DIR$/src/unittest/python/test_conversion.py" />
+        <option value="$PROJECT_DIR$/test.sh" />
       </list>
     </option>
   </component>
@@ -276,7 +215,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test_conversion">
+    <configuration name="test_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="keeper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/unittest/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/unittest/python/test_conversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="keeper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,6 +270,15 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_transfer_formatter.test_should_format_single_transfer" />
+      <item itemvalue="Python.test_conversion" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_conversion" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -321,32 +291,48 @@
       <option name="presentableId" value="Default" />
       <updated>1558035706954</updated>
       <workItem from="1558035708550" duration="1465000" />
-      <workItem from="1558037320230" duration="255000" />
+      <workItem from="1558037320230" duration="2560000" />
     </task>
+    <task id="LOCAL-00001" summary="Just use abis directly for now as I learn about python project layouts.">
+      <created>1558037749441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558037749441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_transfer_formatter_test_should_format_single_transfer - 2019.05.16 at 14h 14m 48s.xml">
+      <configuration name="pytest for test_transfer_formatter.test_should_format_single_transfer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_transfer_formatter_test_should_format_single_transfer - 2019.05.16 at 14h 15m 07s.xml">
+      <configuration name="pytest for test_transfer_formatter.test_should_format_single_transfer" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1720000" />
+    <option name="totallyTimeSpent" value="4025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="23" width="1595" height="976" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25305858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329849" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39953542" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.46109176" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4703833" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.50987226" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -359,6 +345,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just use abis directly for now as I learn about python project layouts." />
+    <option name="LAST_COMMIT_MESSAGE" value="Just use abis directly for now as I learn about python project layouts." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -374,25 +364,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/keeper$test_transfer_formatter.coverage" NAME="test_transfer_formatter Coverage Results" MODIFIED="1558037485110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/unittest/python" />
     <SUITE FILE_PATH="coverage/keeper$pytest_for_test_transfer_formatter_test_should_format_single_transfer.coverage" NAME="pytest for test_transfer_formatter.test_should_format_single_transfer Coverage Results" MODIFIED="1558037705951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/keeper$test_conversion.coverage" NAME="test_conversion Coverage Results" MODIFIED="1558039099542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/unittest/python" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/pymaker/abi/Cat.abi" />
     <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/abi/Cat.abi">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/transfer_formatter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/util.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -408,13 +385,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/unittest/python/test_transfer_formatter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="38" />
+        <state relative-caret-position="254">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="e#739#752#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/opportunity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/transfer_formatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittest/python/test_opportunity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/pymaker/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9569">
+          <caret line="664" selection-start-line="664" selection-end-line="664" />
+          <folding>
+            <element signature="e#744#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-434" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/arbitrage_keeper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="e#744#788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittest/python/test_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
