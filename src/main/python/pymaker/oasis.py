@@ -22,10 +22,10 @@ from hexbytes import HexBytes
 from web3 import Web3
 from web3.utils.events import get_event_data
 
-from pymaker import Contract, Address, Transact, Receipt
-from pymaker.numeric import Wad
-from pymaker.token import ERC20Token
-from pymaker.util import int_to_bytes32, bytes_to_int
+from src.main.python.pymaker import Contract, Address, Transact, Receipt
+from src.main.python.pymaker.numeric import Wad
+from src.main.python.pymaker.token import ERC20Token
+from src.main.python.pymaker.util import int_to_bytes32, bytes_to_int
 
 
 class Order:

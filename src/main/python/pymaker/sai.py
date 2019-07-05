@@ -19,10 +19,10 @@ from typing import Optional
 
 from web3 import Web3
 
-from pymaker import Address, Contract, Transact
-from pymaker.numeric import Wad, Ray
-from pymaker.token import ERC20Token
-from pymaker.util import int_to_bytes32
+from src.main.python.pymaker import Address, Contract, Transact
+from src.main.python.pymaker.numeric import Wad, Ray
+from src.main.python.pymaker.token import ERC20Token
+from src.main.python.pymaker.util import int_to_bytes32
 
 
 class Cup:
